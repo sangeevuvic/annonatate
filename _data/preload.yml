@@ -1,3 +1,9 @@
-images: []
+images:
+- added: '2024-12-05 22:08:45.508468'
+  iiif: true
+  thumbnail: ''
+  title: ''
+  url: https://gist.githubusercontent.com/sangeevuvic/4f0d6a3ffc7a901c99a7264e9602a311/raw/fff719aba7fa1f14db27a2ac44b7fdc2198d6a42/manifest-demo.json
+  user: sangeevuvic
 settings: {}
 version: '2.1'
