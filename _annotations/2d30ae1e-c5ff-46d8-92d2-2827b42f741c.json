@@ -1,0 +1,81 @@
+---
+canvas: "https://collections.library.yale.edu/iiif/2/15536977/info.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "1",
+            "purpose": "commenting",
+            "creator": {
+                "id": "sangeevuvic",
+                "name": "sangeevuvic"
+            },
+            "created": "2024-12-05T22:36:39.108Z",
+            "modified": "2024-12-05T22:36:47.400Z"
+        },
+        {
+            "purpose": "geotagging",
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    -122.76955,
+                                    49.23368
+                                ],
+                                [
+                                    -122.769431,
+                                    49.233619
+                                ],
+                                [
+                                    -122.769233,
+                                    49.233785
+                                ],
+                                [
+                                    -122.769352,
+                                    49.233846
+                                ],
+                                [
+                                    -122.76955,
+                                    49.23368
+                                ]
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            -122.769339,
+                            49.233697
+                        ]
+                    }
+                ]
+            },
+            "creator": {
+                "id": "sangeevuvic",
+                "name": "sangeevuvic"
+            },
+            "created": "2024-12-05T22:38:16.771Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://collections.library.yale.edu/iiif/2/15536977/info.json",
+            "type": "image"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"4508.771728515625\" cy=\"8492.62109375\" r=\"26.60782741205939\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2d30ae1e-c5ff-46d8-92d2-2827b42f741c.json",
+    "motivation": "commenting"
+}
